@@ -7,9 +7,12 @@
 H-bridge for motor control ⚙️
 Arduino Mega for robust processing 🖥️
 ## Key Features:
-Maze Exploration: Watch as our bot navigates through the maze using the right-hand algorithm, effectively mapping out the paths and dead ends.
-Optimized Path Solving: Once the maze is explored, the bot calculates the shortest path to the exit and efficiently navigates to the finish line.
+### Maze Exploration:
+Watch as our bot navigates through the maze using the right-hand algorithm, effectively mapping out the paths and dead ends.
+### Optimized Path Solving:
+Once the maze is explored, the bot calculates the shortest path to the exit and efficiently navigates to the finish line.
 EEPROM Storage: The bot stores the explored path in EEPROM and then optimizes it to solve the maze in the shortest time.
+
 This project showcases our dedication to embedded systems and problem-solving, combining hardware ingenuity with advanced programming. Big thanks to my amazing team Mustafa Tarek and Daniel Atallah for their hard work and innovative thinking!
 
 ## Video
