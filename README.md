@@ -1,4 +1,4 @@
-# Maze-Solver
+# Maze-Solver-Robot
 
 ## Hardware:
 2 DC motors 🏎️
